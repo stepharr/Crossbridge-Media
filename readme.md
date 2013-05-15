@@ -5,8 +5,8 @@ is a sample CRUD application built with with Backbone.js, Twitter Bootstrap, Nod
 The application allows you to browse through a list of sermons and play them.
 
 
-The application is also hosted online. You can test it [here](http://crossbridgemedia.aws.af.cm)
+The application is also hosted online. You can test it [here](http://crossbridgemedia.aws.af.cm).
 
-Thanks to Appfog ([here](http://appfog.com)) for hosting
+Thanks to  [Appfog](http://appfog.com) for hosting.
 
 
