@@ -1,0 +1,11 @@
+<a href="#wines/<%= _id %>" class="thumbnail plain" style="text-align: center;">
+    <img src="<%= picture === null ? 'img/images.jpeg' : 'pics/' + picture %>" height="150" width="125" alt="">
+    
+    <h5><%= name %></h5>
+    <%= year %><br/> <%= grapes %><br/>
+    <audio controls>
+			<source src="<%= region %>" type="audio/ogg" />
+			<source src="<%= region %>" type="audio/mpeg" />
+	</audio>
+</a>
+
